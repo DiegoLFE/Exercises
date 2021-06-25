@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1599486712 source:c:\users\diego\desktop\cutn\funciones4\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+	<ctype.h>
+
+1599486260 source:c:\users\diego\desktop\cutn\funciones4\funciones.c
+	"funciones.h"
+	<ctype.h>
+	<stdlib.h>
+	<stdio.h>
+
+1599486712 c:\users\diego\desktop\cutn\funciones4\funciones.h
+
