@@ -1,0 +1,5 @@
+<resources xmlns:tools="http://schemas.android.com/tools"
+    tools:locale="es">
+    <string name="app_name">Calculadora</string>
+    <string name="divide_by_zero">No se puede dividir por zero</string>
+</resources>

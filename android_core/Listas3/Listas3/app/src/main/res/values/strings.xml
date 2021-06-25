@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Listas</string>
+    <string name="agregar_lista">Agregar a la lista</string>
+    <string name="agregar_lista_hint">Inserte el nombre del personaje</string>
+</resources>

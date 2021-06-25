@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name" translatable="false">YourResto</string>
+    <string name="primero" translatable="false">Restaurants</string>
+    <string name="segundo" translatable="false">About us</string>
+    <string name="tercero" translatable="false">Recipe list</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment" translatable="false">Hello blank fragment</string>
+    <string name="open" translatable="false">Open</string>
+    <string name="close" translatable="false">Close</string>
+    <string name="Bienvenidos" translatable="false">Lo que empezo como un simple proyecto termino siendo una app para ayudar la gente a determinar cual restaurant le conviene mas elegir y el lugar donde esta ubicado, es una app orientada a gente con aviones privados para que vayan de pais en  pais recorriendo los mejores restaurants.</string>
+
+
+</resources>

@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">EjercicioRelativeLayout</string>
+    <string name="titulo_login">LOGIN</string>
+    <string name="nombre">Nombre:</string>
+    <string name="edad">Edad:</string>
+    <string name="boton_submit">Submit</string>
+    <string name="boton_signup">Sign Up</string>
+</resources>

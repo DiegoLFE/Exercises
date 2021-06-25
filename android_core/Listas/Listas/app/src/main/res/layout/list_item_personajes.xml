@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/textViewNombre"
+        android:layout_width="match_parent"
+        tools:text="Nombre"
+        android:padding="5dp"
+        android:textSize="60sp"
+        android:layout_height="wrap_content" />
+
+    <TextView
+        android:id="@+id/textViewSuperPoder"
+        android:layout_width="match_parent"
+        android:textSize="30sp"
+        android:padding="5dp"
+        tools:text="Superpoder"
+        android:layout_height="wrap_content" />
+
+</LinearLayout>

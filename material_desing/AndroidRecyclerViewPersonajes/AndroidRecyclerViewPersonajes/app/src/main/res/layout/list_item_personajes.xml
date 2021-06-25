@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <ImageView
+        android:id="@+id/imageViewPersonaje"
+        android:layout_width="200dp"
+        android:layout_height="200dp"
+        android:src="@drawable/none"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+        <TextView
+            android:id="@+id/textViewNombre"
+            android:layout_width="match_parent"
+            tools:text="Nombre"
+            android:padding="5dp"
+            android:textSize="45sp"
+            android:layout_height="wrap_content" />
+
+        <TextView
+            android:id="@+id/textViewSuperPoder"
+            android:layout_width="match_parent"
+            android:textSize="30sp"
+            android:padding="5dp"
+            tools:text="Superpoder"
+            android:layout_height="wrap_content" />
+
+    </LinearLayout>
+
+</LinearLayout>
